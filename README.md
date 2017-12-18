@@ -185,8 +185,8 @@ With those in mind, this is how to conform your class to `MatrixConnectable`:
 extension MyClass: MatrixConnectable {
     weak var north: MyClass?
     weak var south: MyClass?
-    weak west north: MyClass?
-    weak east north: MyClass?
+    weak var west: MyClass?
+    weak var east: MyClass?
 }
 ```
 
