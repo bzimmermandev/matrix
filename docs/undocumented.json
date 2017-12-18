@@ -1,0 +1,145 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Matrix",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Matrix",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Matrix",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Matrix",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Matrix",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Size",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": null,
+      "symbol": "Size",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 29,
+      "symbol": "Matrix",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 236,
+      "symbol": "Matrix.-(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 289,
+      "symbol": "MatrixConnectable.north",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 290,
+      "symbol": "MatrixConnectable.south",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 291,
+      "symbol": "MatrixConnectable.west",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 292,
+      "symbol": "MatrixConnectable.east",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 293,
+      "symbol": "MatrixConnectable.neighbors",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 340,
+      "symbol": "Size.CoordinatesIterator",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 341,
+      "symbol": "Size.CoordinatesIterator.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 341,
+      "symbol": "Size.CoordinatesIterator.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 342,
+      "symbol": "Size.CoordinatesIterator.column",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 342,
+      "symbol": "Size.CoordinatesIterator.row",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zedd/Development/Swift/Models/MatrixDoc/Matrix/Matrix.swift",
+      "line": 343,
+      "symbol": "Size.CoordinatesIterator.init(height:width:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/zedd/Development/Swift/Models/MatrixDoc"
+}
