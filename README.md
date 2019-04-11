@@ -206,7 +206,7 @@ matrix[0, 0].north // nil
 
 ## Authors
 
-* **Brandon Zimmerman** - [github](https://github.com/bzimmermandev) | [email](bzimmermandev@icloud.com)
+* **Brandon Zimmerman** - [github](https://github.com/hammerforgedcode) | [email](bzimmermandev@icloud.com)
 
 ## Acknowledgments
 
