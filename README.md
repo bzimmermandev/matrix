@@ -4,7 +4,7 @@ A Swift 4 `Matrix` value type that conforms to `Collection`. `Matrix` is a gener
 
 ## Terminology
 
-When I refer to a matrix's *"cell"*, I am referring to the concept of the container that holds each element. Inherent in each cell are its coordinates in the matrix, and the element that it holds. It is not an actual class, or anything that you should have to worry about.
+When I refer to a matrix's *cell*, I am referring to the concept of the container that holds each element. Inherent in each cell are its coordinates in the matrix, and the element that it holds. It is not an actual class, or anything that you should have to worry about.
 
 ## Creating a matrix
 
