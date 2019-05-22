@@ -14,7 +14,7 @@ A matrix can be created in a number of ways. The easiest way is to create a matr
 var matrix = Matrix(height: 4, width: 4, repeating: 0) // Inferred to be of type Matrix<Int>
 ```
 
-You can also create a matrix using the `init(height:width:dataSource:)` initializer. This initializer allows you to pass in a closure that does the work of initializing each cell of the matrix. The `dataSource` closure is of the type `((row: Int, column: Int)) throws -> Element`, where `Element` is the type that the matrix holds. This closure take as its only argument a tuple corresponding to the coordinate-pair of the cell that needs to be filled in. We can use this initializer if we want to intiailize the matrix in a more complex way using some populating logic.
+You can also create a matrix using the `init(height:width:dataSource:)` initializer. This initializer allows you to pass in a closure that does the work of initializing each cell of the matrix. The `dataSource` closure is of the type `((row: Int, column: Int)) throws -> Element`, where `Element` is the type that the matrix holds. This closure takes a tuple (corresponding to the coordinate-pair of the cell that will be filled) as its only argument. We can use this initializer if we want to intiailize the matrix in a more complex way using some populating logic.
 
 We can use this initializer to easily create a times-table, for example:
 
