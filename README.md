@@ -203,12 +203,3 @@ matrix[0, 0].north // nil
 ```
 
 **Note**: If you are going to use this protocol with `Matrix`, make sure to call `connect()` after the matrix is modified in a way that warrants recalculating connections.
-
-## Authors
-
-* **Brandon Zimmerman** - [github](https://github.com/hammerforgedcode) | [email](bzimmermandev@icloud.com)
-
-## Acknowledgments
-
-* Thanks to the [Swift subreddit](http://www.reddit.com/r/swift) for all the help and interesting discussions.
-* Thanks, of course, to the unsung heroes down at [stackoverflow](https://stackoverflow.com).
