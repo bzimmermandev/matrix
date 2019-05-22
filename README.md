@@ -115,7 +115,7 @@ for product in matrix {
 
 ### Accessing rows and columns
 
-There are also a few methods for dealing with indiviual rows and columns:
+There are also a few methods for dealing with individual rows and columns:
 
 ```swift
 matrix.row(1) // [2, 4, 6, 8]
